@@ -970,11 +970,11 @@ QBShared.Jobs = {
 
 -- Job Testing
     ['dev'] = {
-        label = 'SinCrafting Developer',
+        label = 'Only Fans',
         defaultDuty = true,
         grades = {
             ['0'] = {
-                name = 'Owner',
+                name = 'Streamer',
                 isboss = true,
                 payment = 325
             },
