@@ -8,8 +8,8 @@ local Translations = {
         company_too_poor = 'Váš zaměstnavatel nemá dostatek peněz, aby vás vyplatil',
         item_not_exist = 'Předmět neexistuje',
         too_heavy = 'Inventář je plný',
-        duplicate_license = 'Stejná Rockstar licence je již na serveru',
-        no_valid_license  = 'Nebyla nalezena žádná platná Rockstar licence',
+        duplicate_license = 'Stejná Rockstar license je již na serveru',
+        no_valid_license  = 'Nebyla nalezena žádná platná Rockstar license',
         not_whitelisted = 'Nejste na whitelistu'
     },
     success = {},
