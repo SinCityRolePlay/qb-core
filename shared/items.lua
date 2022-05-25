@@ -165,7 +165,7 @@ QBShared.Items = {
 
 -- Tools
 	['miningpickaxe']				 = {['name'] = 'miningpickaxe',					['label'] = 'Mining Pickaxe',			['weight'] = 2500,		['type'] = 'item',		['image'] = 'sin_m_miningpickaxe.png',		['unique'] = true,		['useable'] = true,			['shouldClose'] = true,		['combinable'] = nil,	['description'] = 'Tool used to extract ores from mining site'},
-	['mininghatchet']				 = {['name'] = 'mininghatchet',					['label'] = 'Mining Hathcet',			['weight'] = 1500,		['type'] = 'item',		['image'] = 'sin_m_weapon_hatchet.png',		['unique'] = true,		['useable'] = true,			['shouldClose'] = true,		['combinable'] = nil,	['description'] = 'Tool used to chop wood from trees'},
+	['mininghatchet']				 = {['name'] = 'mininghatchet',					['label'] = 'Mining Hathcet',			['weight'] = 1500,		['type'] = 'item',		['image'] = 'weapon_hatchet.png',		['unique'] = true,		['useable'] = true,			['shouldClose'] = true,		['combinable'] = nil,	['description'] = 'Tool used to chop wood from trees'},
 	["handdrill"] 					 = {["name"] = "handdrill", 			  	  	["label"] = "Hand Drill", 				["weight"] = 1000, 		["type"] = "item", 		["image"] = "sin_m_handdrill.png", 			["unique"] = false, 	["useable"] = false, 		["shouldClose"] = false, 	["combinable"] = nil,   ["description"] = "Tool used to cut and shape natural gems."},
 	["drillbit"] 					 = {["name"] = "drillbit", 			  	  		["label"] = "Drill Bit", 				["weight"] = 25, 		["type"] = "item", 		["image"] = "sin_m_drillbit.png", 			["unique"] = false, 	["useable"] = false, 		["shouldClose"] = false, 	["combinable"] = nil,   ["description"] = "Bits needed for hand drill."},
 
