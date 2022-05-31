@@ -354,7 +354,18 @@ QBShared.Jobs = {
 		grades = {
             ['0'] = {
                 name = 'Sales',
-                payment = 50
+                payment = 75
+            },
+        },
+	},
+    ['recycle'] = {
+		label = 'Recycling Center',
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+            ['0'] = {
+                name = 'Employee',
+                payment = 75
             },
         },
 	},
