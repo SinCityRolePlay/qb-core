@@ -157,7 +157,7 @@ QBShared.Jobs = {
 		grades = {
             ['0'] = {
                 name = 'Driver',
-                payment = 50
+                payment = 75
             },
 		},
 	},
@@ -168,7 +168,7 @@ QBShared.Jobs = {
 		grades = {
             ['0'] = {
                 name = 'Technician',
-                payment = 50
+                payment = 75
             },
 		},
 	},
@@ -277,7 +277,7 @@ QBShared.Jobs = {
             ['0'] = {
                 name = 'Journalist',
                 isboss = true,
-                payment = 50
+                payment = 75
             },
         },
 	},
@@ -332,7 +332,7 @@ QBShared.Jobs = {
 		grades = {
             ['0'] = {
                 name = 'Collector',
-                payment = 50
+                payment = 75
             },
         },
 	},
@@ -342,8 +342,8 @@ QBShared.Jobs = {
 		offDutyPay = false,
 		grades = {
             ['0'] = {
-                name = 'Picker',
-                payment = 50
+                name = 'Employee',
+                payment = 75
             },
         },
 	},
